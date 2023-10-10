@@ -10,16 +10,16 @@ export class dbzService {
 
 
   characters: Character[] = [{
-    name: 'goku',
-    power: 1000,
+    name: 'Rubén',
+    power: 24,
     id: uuid(),
   },{
-    name:'gohan',
-    power: 900,
+    name:'Raúl',
+    power: 32,
     id: uuid(),
   },{
-    name: 'Raditz',
-    power: 2000,
+    name: 'Guillermo',
+    power: 20,
     id: uuid(),
   }]
 
